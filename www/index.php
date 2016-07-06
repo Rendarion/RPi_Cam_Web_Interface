@@ -211,6 +211,7 @@
          &nbsp;&nbsp;
          <?php  if($config['motion_external']): ?><a href="motion.php" class="btn btn-default">Edit motion settings</a>&nbsp;&nbsp;<?php endif; ?>
          <a href="schedule.php" class="btn btn-default">Edit schedule settings</a>
+         <a href="sms.php" class="btn btn-default">Check SMS</a>
       </div>
     
       <div class="container-fluid text-center">
