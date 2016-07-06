@@ -22,7 +22,7 @@
 # (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 # SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-rpicamdir=\"html\"
+rpicamdir=html
 rpicamdirold=$rpicamdir
 
 if [ ! "${rpicamdir:0:1}" == "" ]; then
